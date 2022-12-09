@@ -1,5 +1,5 @@
 <h1 align="center">Holaa!!👋, Me Llamo Cesar Eduardo López</h1>
-<img src="https://binarapps.com/wp-content/uploads/2020/12/3.What-is-Full-Stack-Web-Development-.png" width="1000" alt="android"/>
+<img align="center" src="https://binarapps.com/wp-content/uploads/2020/12/3.What-is-Full-Stack-Web-Development-.png"  alt="android"/>
 <h3 align="center">Soy Un Desarrollador Web Apasionado En La Ciudad De Monterrey N.L México</h3>
 
 - ⚡ Dato Curioso!! **Me Gusta Ser Proactivo, Trabajar En Equipo, Dinamico**
