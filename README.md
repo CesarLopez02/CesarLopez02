@@ -1,5 +1,5 @@
 <h1 align="center">Holaa!!👋, Me Llamo Cesar Eduardo López</h1>
-<img src="https://www.shutterstock.com/image-illustration/web-development-coding-concept-banner-260nw-1955634814.jpg" alt="android" width="200" height="40"/>
+<img src="https://www.shutterstock.com/image-illustration/web-development-coding-concept-banner-260nw-1955634814.jpg" alt="android"/>
 <h3 align="center">Soy Un Desarrollador Web Apasionado En La Ciudad De Monterrey N.L México</h3>
 
 - ⚡ Dato Curioso!! **Me Gusta Ser Proactivo, Trabajar En Equipo, Dinamico**
